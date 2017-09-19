@@ -3,10 +3,10 @@
 
 ########### edit settings #########
 
-$dataip = "http://2.221.82.97"; // your external IP address not the IP address the router assigns your computer.
-$database = "pardusradio"; // Databse name for mysql database containing music info.
-$username = "radio";  //database user name for requests not 'root' user name.
-$userpass = "parrad1"; // database password for requests not 'root' password.
+$dataip = "http://localhost"; // your external IP address not the IP address the router assigns your computer.
+$database = "test"; // Databse name for mysql database containing music info.
+$username = "root";  //database user name for requests not 'root' user name.
+$userpass = "changeme"; // database password for requests not 'root' password.
 $dataport = "3306";  // database port number for mysql.
 $timezone = "Europe/london";  // Your time zone where you live,see http://http://php.net/manual/en/timezones.php for timezone info
 $reqLimit = '5'; // Request limit per day.
