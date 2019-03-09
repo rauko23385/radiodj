@@ -1,5 +1,5 @@
 <?php
-/*Request script with wait time between selects.Made by: Jhonny Date: 12-21-2016 Edited by: rauko Date: 09-18-2017*/
+/*Request script with wait time between selects.Made by: Jhonny Date: 12-21-2016 Edited by: rauko Date: 09-18-2018*/
 
 ########### edit settings #########
 
